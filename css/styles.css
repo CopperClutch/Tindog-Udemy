@@ -27,3 +27,8 @@ h1 {
 .nav-item {
   padding: 0 18px;
 }
+@media screen and (max-width: 600px) {
+  #dog-pic {
+    background-color: lightgreen;
+    width: 7em;
+  }
